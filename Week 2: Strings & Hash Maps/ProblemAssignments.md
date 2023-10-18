@@ -1,4 +1,4 @@
-# Week 1: Problem Assignments
+# Week 2: Problem Assignments
 
 1. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) (Easy)
 

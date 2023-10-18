@@ -1,6 +1,6 @@
-# Week 1: Problem Assignments
+# Week 3: Problem Assignments
 
-1. [Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/) (Easy)
+1. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) (Easy)
 
 2. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) (Medium)
 
