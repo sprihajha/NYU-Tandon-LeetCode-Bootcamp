@@ -11,26 +11,26 @@ Welcome to the first week of our LeetCode Bootcamp. This week, we will dive into
 
 ### 2. Python Overview of Lists, Arrays, and Sorting
 
-### 3. Pattern Introduction
-
-- Two-Pointer Approach
-- Sliding Window Technique
-
-### 4. Problems Covered This Week
-
-- [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)(Easy)
-- [Sort Colors](https://leetcode.com/problems/sort-colors/)(Medium)
-- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)(Hard)
-
-## Reading Material
-
-To reinforce what we've covered in class, please review the following resources:
+Please review the following resources:
 
 - [Exercism: Python Lists](https://exercism.org/tracks/python/concepts/lists)
 - [Python.org: List Comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
 - [Python.org: Sequence Types - list, tuple, range](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
 - [Python.org: Sorting HOW TO](https://docs.python.org/3/howto/sorting.html#)
 - [Real Python: Python Lists and Tuples](https://realpython.com/python-lists-tuples/)
+
+### 3. Pattern Introduction
+
+- Two-Pointer Approach
+![alt text](./Resources/TwoPointerApproach.png)
+- Sliding Window Technique
+![alt text](./Resources/SlidingWindowApproach.png)
+
+### 4. Problems Covered This Week
+
+- [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)(Easy)
+- [Sort Colors](https://leetcode.com/problems/sort-colors/)(Medium)
+- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)(Hard)
 
 ## Take-Home Problems
 
