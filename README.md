@@ -2,7 +2,7 @@
 
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=5% height=5% alt="Waving hand">
 
-Welcome to the NYU Tandon LeetCode Bootcamp GitHub repository! This boot camp will help you enhance your problem-solving and coding skills by tackling challenges on LeetCode.
+Welcome to the NYU Tandon LeetCode Bootcamp GitHub repository! This boot camp will help you enhance your problem-solving and coding skills by tackling challenges on LeetCode. You can find the current syllabus [here](https://docs.google.com/document/d/1_mUI2BCEQ_kJDztWSuToLKdVsnVhLyWLfgj6iOYPCsw/edit?usp=sharing). 
 
 ## What's Inside
 
@@ -45,4 +45,4 @@ Here's a list of resources and tech guides to supplement your learning and provi
 
 ## Feedback
 
-Your feedback is crucial for us to improve! Please share your thoughts, suggestions, or any issues you encounter in this repository to  [leetcodebootcamp@nyu.edu](mailto:leetcodebootcamp@nyu.edu).
+Your feedback is crucial for us to improve! Please share your thoughts, suggestions, or any issues in this repository to  [leetcodebootcamp@nyu.edu](mailto:leetcodebootcamp@nyu.edu).
