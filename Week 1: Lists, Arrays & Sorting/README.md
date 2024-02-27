@@ -22,9 +22,9 @@ Please review the following resources:
 ### 3. Pattern Introduction
 
 - Two-Pointer Approach
-![alt text](./Resources/TwoPointerApproach.png)
+![alt text](./assets/TwoPointerApproach.png)
 - Sliding Window Technique
-![alt text](./Resources/SlidingWindowApproach.png)
+![alt text](./assets/SlidingWindowApproach.png)
 
 ### 4. Problems Covered This Week
 
