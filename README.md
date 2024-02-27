@@ -32,7 +32,7 @@ Here's a list of resources and tech guides to supplement your learning and provi
 - [Tech Interview Handbook | Grind75](https://www.techinterviewhandbook.org)
 - [Tech Dev Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 - [Codility](https://app.codility.com/programmers/lessons/1-iterations/)
-- [NeetCode](https://www.youtube.com/channel/UC_mYaQAE6-71rjSN6CeCA-g)
+- [Neetcode.io](https://neetcode.io/roadmap)
 - [Visualizing Algorithms](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [VisuAlgo | Visualising data structures and algorithms through animation](https://visualgo.net/en)
 
