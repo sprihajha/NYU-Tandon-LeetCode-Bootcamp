@@ -1,6 +1,6 @@
 # Week 2: Strings and HashMap
 
-Welcome to the second week of our LeetCode Bootcamp. This week, we will dive into Strings and HashMap in Python, alongside introducing powerful problem-solving patterns like the Two-Pointer Approach and the Sliding Window Technique.
+Welcome to the second week of our LeetCode Bootcamp. This week, we will dive into Strings and HashMap in Python, alongside introducing powerful problem-solving patterns like the Hash Map Pattern.
 
 ## Class Agenda (2 Hours)
 
@@ -18,7 +18,7 @@ Please review the following resources:
 
 ### 2. Pattern Introduction
 
-- Hash Maps Pattern
+- Hash Map Pattern
 ![alt text](./assets/HashMap.png)
 - Revisit Sliding Window Technique
 [here](/Week%201:%20Lists,%20Arrays%20&%20Sorting/assets/SlidingWindowApproach.png)
