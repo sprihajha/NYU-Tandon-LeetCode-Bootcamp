@@ -1,4 +1,4 @@
-# Week 2: Strings and HashMap
+# Week 3: Linked Lists & Matrices
 
 Welcome to the third week of our LeetCode Bootcamp. This week, we will dive into Linked Lists and Matrices in Python, alongside introducing powerful problem-solving patterns.
 
