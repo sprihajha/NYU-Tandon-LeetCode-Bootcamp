@@ -14,10 +14,7 @@ Please review the following resources:
 - [Python.org: Using Lists as Stacks & Queues](https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-stacks)
 - [Python.org: Collections Deque](https://docs.python.org/3/library/collections.html#deque-objects)
 
-### 2. Pattern Introduction
-
-
-### 3. Problems Covered This Week
+### 2. Problems Covered This Week
 
 - [Find the town judge](https://leetcode.com/problems/find-the-town-judge/description/)(Easy)
 
