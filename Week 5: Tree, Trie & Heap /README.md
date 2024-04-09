@@ -9,8 +9,10 @@ Welcome to the fifth week of our LeetCode Bootcamp. This week, we will dive into
 Please review the following resources:
 
 - [Programiz: Trees](https://www.programiz.com/dsa/trees)
+- [Trie Implementation](https://towardsdatascience.com/implementing-a-trie-data-structure-in-python-in-less-than-100-lines-of-code-a877ea23c1a1)
 - [Programiz: Heap](https://www.programiz.com/dsa/heap-data-structure)
-- [Freecodecamp: Trie Implementation](https://www.freecodecamp.org/news/trie-data-structure-implementation/)
+- [Python: heapq Module](https://docs.python.org/3/library/heapq.html)
+- [Recursion vs Iteration](https://clouddevs.com/python/recursion-and-iteration/)
 
 ### 2. Problems Covered This Week
 
