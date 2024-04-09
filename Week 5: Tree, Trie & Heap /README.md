@@ -4,7 +4,7 @@ Welcome to the fifth week of our LeetCode Bootcamp. This week, we will dive into
 
 ## Class Agenda (2 Hours)
 
-### 1. Python Overview of Graphs, Stacks & Queues
+### 1. Python Overview of Tree, Trie & Heap
 
 Please review the following resources:
 
