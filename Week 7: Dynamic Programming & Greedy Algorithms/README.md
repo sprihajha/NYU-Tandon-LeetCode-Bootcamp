@@ -32,8 +32,8 @@ Please review the following resources:
 
 To help solidify your understanding and practice further, here are some take-home problems:
 
-1. [Partition equal subset sum](https://leetcode.com/problems/partition-equal-subset-sum/editorial/)(Medium)
-2. [Longest increasing path in a matrix](https://leetcode.com/problems/coin-change/editorial/)(Medium)
+1. [Partition equal subset sum](https://leetcode.com/problems/partition-equal-subset-sum/)(Medium)
+2. [Longest increasing path in a matrix](https://leetcode.com/problems/coin-change/)(Medium)
 3. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)(Medium)
 
 Good luck, and happy coding!
